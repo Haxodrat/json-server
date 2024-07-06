@@ -6,7 +6,7 @@
 ### Getting Started
 #### 1. Clone the repo and open the index.html file with LiveServer extension on VSCode.
 ```bash
-git clone 
+git clone https://github.com/Haxodrat/json-server.git
 ```
 #### 2. Run the json-server for data storage.
 ```bash
